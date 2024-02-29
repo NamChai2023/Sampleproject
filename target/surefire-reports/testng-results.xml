@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-29T16:48:50 IST" name="Suite" finished-at="2024-02-29T16:49:30 IST" duration-ms="39258">
+    <groups>
+    </groups>
+    <test started-at="2024-02-29T16:48:50 IST" name="Test" finished-at="2024-02-29T16:49:30 IST" duration-ms="39258">
+      <class name="automationsample.Browselaunch">
+        <test-method is-config="true" signature="lauchdriver()[pri:0, instance:automationsample.Browselaunch@3ee37e5a]" started-at="2024-02-29T16:48:50 IST" name="lauchdriver" finished-at="2024-02-29T16:49:18 IST" duration-ms="27973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchdriver -->
+        <test-method signature="Test1()[pri:0, instance:automationsample.Browselaunch@3ee37e5a]" started-at="2024-02-29T16:49:18 IST" name="Test1" finished-at="2024-02-29T16:49:28 IST" duration-ms="9325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="closeThebrowser()[pri:0, instance:automationsample.Browselaunch@3ee37e5a]" started-at="2024-02-29T16:49:28 IST" name="closeThebrowser" finished-at="2024-02-29T16:49:30 IST" duration-ms="1905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeThebrowser -->
+      </class> <!-- automationsample.Browselaunch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
